@@ -1,1 +1,1 @@
-# MachineLearning
+Developed an application with a pre-trained model that is able to recognize up to 80 different objects from an image, according to a certain probability and that stores the important parameters in a CSV File.
